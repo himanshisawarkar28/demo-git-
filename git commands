@@ -5,4 +5,7 @@ git branch - repo wer depend aste main kiva master options
 git remote origin url - git url 
 git push origin -u user repo add keli using terminal 
 git branch - remotely work krte 
-
+git checkout status check kel branch curent wali konti trr
+git merge  
+git branch (new branch name )
+git log
